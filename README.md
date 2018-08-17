@@ -1,4 +1,4 @@
-## Mobile application testing <br>
+## Mobile application testing - simple TODO app <br>
 
 ### Deploy
 #### $ npm install
