@@ -1,7 +1,7 @@
 {
   "name": "mobile-testing-app",
   "version": "1.0.0",
-  "description": "Mobile applications testing",
+  "description": "Mobile applications testing - simple TODO app",
   "main": "index.js",
   "scripts": {
     "test": "wdio"
