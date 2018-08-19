@@ -16,7 +16,7 @@ function modifyTask(newTitle, newDescription) {
     $('#saveTaskButton').click();
 }
 
-describe('Base app functinality', () => {
+describe('Base functinality', () => {
 
     it('should be possible to add new task', () => {
         addTask('New Task', 'New Description');
