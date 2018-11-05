@@ -45,7 +45,7 @@ exports.config = {
         maxInstances: 5,
         //
         platformName: 'Android',
-        appiumVersion: '1.8.1',
+        appiumVersion: '1.9.1',
         deviceName: 'myDevice',
         app: require('path').resolve('./app/app1.apk').replace(/\\/g, '/')
     }],
